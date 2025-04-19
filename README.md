@@ -13,8 +13,7 @@
 
 > Desarrollador Full Stack apasionado por crear soluciones tecnológicas eficientes y escalables. Estudiante de Ingeniería en Sistemas con experiencia en desarrollo web utilizando diversos frameworks. Busco constantemente oportunidades para contribuir con soluciones innovadoras mientras sigo creciendo profesionalmente.
 
-- 🌍 Basado en Alajuela, Costa Rica
-- 💼 Actualmente trabajando como **Desarrollador Full Stack** en Correos de Costa Rica
+- 🌍 Alajuela, Costa Rica
 - 📚 Tutor del curso de **Fundamentos de Informática** en la Universidad Nacional de Costa Rica
 - 📧 Contáctame en [ericktorres7314@gmail.com](mailto:ericktorres7314@gmail.com)
 
@@ -104,7 +103,4 @@
 - 📱 Teléfono: +506 64125417
 
 <div align="center">
-  
-  ### "El código limpio no se escribe siguiendo reglas rígidas, sino cultivando el conocimiento y la experiencia."
-
 </div>
